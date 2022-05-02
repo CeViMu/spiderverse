@@ -1,4 +1,4 @@
-class spiderman{
+class Spiderman{
     constructor(name, age, actor, num_movies, studio){
         this.name = name
         this.age = age
@@ -8,4 +8,6 @@ class spiderman{
     }
 
 }
+
+module.exports = Spiderman
 
